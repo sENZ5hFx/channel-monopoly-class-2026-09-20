@@ -1,0 +1,65 @@
+CMC ENGINE 2026-09-20T13:40:00-04:00
+class: Channel-Monopoly Class (CMC)
+hygiene: research-stage classification — not a physical discovery, not peer review, not a patent
+leader: pigeon-vestibular-induction @ 52.26
+eligible: 10/22
+structural (>=3 realms): True
+recency ablation leader survives: True
+
+REALM SPLIT
+  animals   52.26  pigeon-vestibular-induction
+  ocean     35.17  twilight-carbon-vs-iron
+  earth     17.89  llsvp-vs-temperature-monopoly
+  land       8.60  giant-magnetofossils
+  humans     8.37  placebo-inert-channel
+  space      4.48  seti-existence-binary
+
+FUNCTION-BUDGET DEFICIT (iteration 2)
+  1.00  animals   pigeon-vestibular-induction
+  1.00  animals   cryptochrome-eye-radical-pair
+  1.00  earth     llsvp-vs-temperature-monopoly
+  1.00  earth     ulvz-absence-map
+  1.00  ocean     twilight-carbon-vs-iron
+  1.00  ocean     surface-predator-photic-monopoly
+  1.00  humans    placebo-inert-channel
+  0.40  land      soil-microbial-memory
+  0.40  land      giant-magnetofossils
+  0.40  space     seti-existence-binary
+
+RANKING
+   1  52.26  animals   pigeon-vestibular-induction               ELIG
+   2  35.17  ocean     twilight-carbon-vs-iron                   ELIG
+   3  26.68  ocean     surface-predator-photic-monopoly          ELIG
+   4  17.89  earth     llsvp-vs-temperature-monopoly             ELIG
+   5  11.41  earth     ulvz-absence-map                          ELIG
+   6   8.60  land      giant-magnetofossils                      ELIG
+   7   8.37  humans    placebo-inert-channel                     ELIG
+   8   6.33  land      soil-microbial-memory                     ELIG
+   9   4.48  space     seti-existence-binary                     ELIG
+  10   3.23  animals   cryptochrome-eye-radical-pair             ELIG
+  11   0.00  life      abiogenesis                               control
+  12   0.00  humans    cogitate-prefrontal-report-monopoly       reclaim-of:Failed-Adjudication
+  13   0.00  humans    consciousness-hard-problem                control
+  14   0.00  space     dark-matter-particle                      control
+  15   0.00  humans    exaptation-speech-larynx                  control
+  16   0.00  ocean     gorg-dark-ferh-rhodopsin                  reclaim-of:CIP
+  17   0.00  space     gravity-as-fundamental-monopoly           reclaim-of:CIP
+  18   0.00  space     hubble-tension                            control
+  19   0.00  space     lrd-class-vs-phase                        reclaim-of:CIC
+  20   0.00  animals   magnetoreceptor-unlocated-generic         control
+  21   0.00  ocean     seafloor-unmapped                         control
+  22   0.00  ocean     sweetman-dark-oxygen                      retain-prior-class
+
+ADVERSARIAL REVIEW
+  - PASS: spoken-exaptation control crushed (CMC is not Gould-Vrba rediscovered).
+  - PASS: leader is Nordmann 2025 inner-ear induction, not a reclaim of TAC's missing receptor.
+  - PASS: GORG-Dark FeRh rhodopsin crushed (CIP 2026-09-17 already claimed).
+  - PASS: LRD phase-object crushed (CIC 2026-09-01 already claimed).
+  - PASS: Sweetman dark oxygen crushed (contested; Science 18 Sep 2026 doubts).
+  - PASS: Hubble tension zeroed (spoken, CIC two-clock).
+  - DISTINCT: TAC = missing converter, layer named dark. CMC = converter already employed by function-1; search protocol treats the channel as full.
+  - DISTINCT: OAC = two quantities collapsed into one number. CMC = one channel allowed only one function.
+  - DISTINCT: CIP = instrument cannot couple to the phenomenon's DOF. CMC = instrument already couples (ear, Vs, mesopelagic, sham pill) but attribution is monopolized.
+  - DISTINCT: DCC = unknown already in the discarded data file. CMC = unknown already in the assigned organ/channel, not in a file.
+  - ITERATION: first pass treated any TAC/OAC/CIP framing as a reclaim and hid the Nordmann leader. overlap_kind_split separates reclaim_of (disqualify) from framed_by (tax).
+  - PRIMARY: pigeon-vestibular-induction @ 52.26

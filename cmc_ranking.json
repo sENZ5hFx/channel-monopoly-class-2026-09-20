@@ -1,0 +1,635 @@
+{
+  "session_id": "2026-09-20-cmc",
+  "timestamp": "2026-09-20T13:40:00-04:00",
+  "class_name": "Channel-Monopoly Class (CMC)",
+  "claim_hygiene": "research-stage classification \u2014 not a physical discovery, not peer review, not a patent",
+  "operator": "one assigned function monopolizes a channel; second function is searched for elsewhere; empty search is named as mystery",
+  "n_items": 22,
+  "n_eligible": 10,
+  "leader": "pigeon-vestibular-induction",
+  "leader_score": 52.26,
+  "realm_split": {
+    "animals": {
+      "id": "pigeon-vestibular-induction",
+      "score": 52.26,
+      "channel": "semicircular-canal type II hair cells (inner ear)",
+      "assigned_function": "balance / angular acceleration (vestibular)",
+      "second_function": "light-independent magnetoreception via electromagnetic induction"
+    },
+    "ocean": {
+      "id": "twilight-carbon-vs-iron",
+      "score": 35.17,
+      "channel": "mesopelagic (200-1000 m) microbial metabolism",
+      "assigned_function": "labile-organic-carbon limitation of remineralization",
+      "second_function": "iron limitation (siderophore peaks in gyre twilight zones)"
+    },
+    "earth": {
+      "id": "llsvp-vs-temperature-monopoly",
+      "score": 17.89,
+      "channel": "lower-mantle shear-wave velocity (Vs)",
+      "assigned_function": "temperature (hot piles / upwelling)",
+      "second_function": "distinct compositional biographies (Pacific young SOC vs African older mix)"
+    },
+    "land": {
+      "id": "giant-magnetofossils",
+      "score": 8.6,
+      "channel": "biogenic magnetite in sediments",
+      "assigned_function": "magnetotactic bacteria",
+      "second_function": "unknown complex organism that biomineralised giant magnetofossils (~56 Ma)"
+    },
+    "humans": {
+      "id": "placebo-inert-channel",
+      "score": 8.37,
+      "channel": "the 'inert' treatment / sham / control pill",
+      "assigned_function": "null control (no active pharmacological function)",
+      "second_function": "meaning / expectation / care as a real physiological channel"
+    },
+    "space": {
+      "id": "seti-existence-binary",
+      "score": 4.48,
+      "channel": "SETI non-detection / Fermi silence",
+      "assigned_function": "absence of technological civilizations (binary existence)",
+      "second_function": "civilizations have a duty cycle (collapse/recovery); silence is the off-phase"
+    }
+  },
+  "structural_isomorphism": true,
+  "recency_ablation": {
+    "dropped": [
+      "lrd-class-vs-phase"
+    ],
+    "leader": "pigeon-vestibular-induction",
+    "leader_score": 52.26,
+    "top5": [
+      {
+        "id": "pigeon-vestibular-induction",
+        "score": 52.26,
+        "realm": "animals"
+      },
+      {
+        "id": "twilight-carbon-vs-iron",
+        "score": 35.17,
+        "realm": "ocean"
+      },
+      {
+        "id": "surface-predator-photic-monopoly",
+        "score": 26.68,
+        "realm": "ocean"
+      },
+      {
+        "id": "llsvp-vs-temperature-monopoly",
+        "score": 17.89,
+        "realm": "earth"
+      },
+      {
+        "id": "ulvz-absence-map",
+        "score": 11.41,
+        "realm": "earth"
+      }
+    ]
+  },
+  "recency_leader_survives": true,
+  "function_budget_deficits": [
+    {
+      "id": "pigeon-vestibular-induction",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "semicircular-canal type II hair cells (inner ear)",
+      "realm": "animals"
+    },
+    {
+      "id": "cryptochrome-eye-radical-pair",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "retinal cryptochrome / FAD radical-pair",
+      "realm": "animals"
+    },
+    {
+      "id": "llsvp-vs-temperature-monopoly",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "lower-mantle shear-wave velocity (Vs)",
+      "realm": "earth"
+    },
+    {
+      "id": "ulvz-absence-map",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "core-mantle boundary Sdiff postcursors",
+      "realm": "earth"
+    },
+    {
+      "id": "twilight-carbon-vs-iron",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "mesopelagic (200-1000 m) microbial metabolism",
+      "realm": "ocean"
+    },
+    {
+      "id": "surface-predator-photic-monopoly",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "trophic identity of tuna / swordfish",
+      "realm": "ocean"
+    },
+    {
+      "id": "placebo-inert-channel",
+      "budgeted_functions": 1,
+      "evidenced_functions": 2.0,
+      "deficit": 1.0,
+      "channel": "the 'inert' treatment / sham / control pill",
+      "realm": "humans"
+    },
+    {
+      "id": "soil-microbial-memory",
+      "budgeted_functions": 1,
+      "evidenced_functions": 1.4,
+      "deficit": 0.4,
+      "channel": "soil microbiome metabolic machinery",
+      "realm": "land"
+    },
+    {
+      "id": "giant-magnetofossils",
+      "budgeted_functions": 1,
+      "evidenced_functions": 1.4,
+      "deficit": 0.4,
+      "channel": "biogenic magnetite in sediments",
+      "realm": "land"
+    },
+    {
+      "id": "seti-existence-binary",
+      "budgeted_functions": 1,
+      "evidenced_functions": 1.4,
+      "deficit": 0.4,
+      "channel": "SETI non-detection / Fermi silence",
+      "realm": "space"
+    }
+  ],
+  "falsifiers": [
+    {
+      "id": "pigeon-vestibular-induction",
+      "kill_cmc_if": "A dedicated non-vestibular magnetoreceptor accounts for homing without the semicircular-canal circuit.",
+      "confirm_cmc_if": "Canal-specific block abolishes magnetic discrimination while leaving ordinary vestibular function partly intact; wild-navigation still routes through MVN."
+    },
+    {
+      "id": "twilight-carbon-vs-iron",
+      "kill_cmc_if": "Fe-addition incubations in gyre twilight zones do not change remineralization; carbon remains the sole limiter.",
+      "confirm_cmc_if": "Independent basins replicate siderophore peaks at 200-500 m and Fe-amendment lifts mesopelagic bacterial production."
+    },
+    {
+      "id": "surface-predator-photic-monopoly",
+      "kill_cmc_if": "Broader species/season sampling shows twilight contribution << 20%.",
+      "confirm_cmc_if": "Isotope + tag studies keep twilight diet >= 40% across years, so photic-only stock assessments mis-specify the fishery."
+    },
+    {
+      "id": "llsvp-vs-temperature-monopoly",
+      "kill_cmc_if": "Composition cannot hide inside observed Vs once T is fixed; the two provinces are the same object.",
+      "confirm_cmc_if": "Geoneutrinos, tidal tomography, or noble-gas systematics distinguish Pacific vs African piles as Panton 2025 predicts (Pacific denser, younger SOC)."
+    },
+    {
+      "id": "placebo-inert-channel",
+      "kill_cmc_if": "A mechanism is found that lives entirely outside the sham channel.",
+      "confirm_cmc_if": "Designs that drop the 'inert' assignment (open-label placebo, dose-of-care) close more variance than receptor-level pharmacology of the sham."
+    },
+    {
+      "id": "exaptation-speech-larynx",
+      "kill_cmc_if": "THIS ITEM MUST STAY NEAR ZERO. If it ranks primary, CMC has collapsed into spoken exaptation and the class is void.",
+      "confirm_cmc_if": "n/a \u2014 control."
+    }
+  ],
+  "adversarial_review": [
+    "PASS: spoken-exaptation control crushed (CMC is not Gould-Vrba rediscovered).",
+    "PASS: leader is Nordmann 2025 inner-ear induction, not a reclaim of TAC's missing receptor.",
+    "PASS: GORG-Dark FeRh rhodopsin crushed (CIP 2026-09-17 already claimed).",
+    "PASS: LRD phase-object crushed (CIC 2026-09-01 already claimed).",
+    "PASS: Sweetman dark oxygen crushed (contested; Science 18 Sep 2026 doubts).",
+    "PASS: Hubble tension zeroed (spoken, CIC two-clock).",
+    "DISTINCT: TAC = missing converter, layer named dark. CMC = converter already employed by function-1; search protocol treats the channel as full.",
+    "DISTINCT: OAC = two quantities collapsed into one number. CMC = one channel allowed only one function.",
+    "DISTINCT: CIP = instrument cannot couple to the phenomenon's DOF. CMC = instrument already couples (ear, Vs, mesopelagic, sham pill) but attribution is monopolized.",
+    "DISTINCT: DCC = unknown already in the discarded data file. CMC = unknown already in the assigned organ/channel, not in a file.",
+    "ITERATION: first pass treated any TAC/OAC/CIP framing as a reclaim and hid the Nordmann leader. overlap_kind_split separates reclaim_of (disqualify) from framed_by (tax).",
+    "PRIMARY: pigeon-vestibular-induction @ 52.26"
+  ],
+  "ranking": [
+    {
+      "rank": 1,
+      "id": "pigeon-vestibular-induction",
+      "realm": "animals",
+      "score": 52.26,
+      "eligible": true,
+      "status": "confirmed",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "semicircular-canal type II hair cells (inner ear)",
+      "assigned_function": "balance / angular acceleration (vestibular)",
+      "second_function": "light-independent magnetoreception via electromagnetic induction",
+      "prior_overlap": [
+        "TAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 2,
+      "id": "twilight-carbon-vs-iron",
+      "realm": "ocean",
+      "score": 35.17,
+      "eligible": true,
+      "status": "confirmed",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "mesopelagic (200-1000 m) microbial metabolism",
+      "assigned_function": "labile-organic-carbon limitation of remineralization",
+      "second_function": "iron limitation (siderophore peaks in gyre twilight zones)",
+      "prior_overlap": [],
+      "reclaim_of": []
+    },
+    {
+      "rank": 3,
+      "id": "surface-predator-photic-monopoly",
+      "realm": "ocean",
+      "score": 26.68,
+      "eligible": true,
+      "status": "confirmed",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "trophic identity of tuna / swordfish",
+      "assigned_function": "photic-zone / epipelagic predators",
+      "second_function": "50-60% of diet sourced from the twilight zone",
+      "prior_overlap": [
+        "Undersampling"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 4,
+      "id": "llsvp-vs-temperature-monopoly",
+      "realm": "earth",
+      "score": 17.89,
+      "eligible": true,
+      "status": "candidate",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "lower-mantle shear-wave velocity (Vs)",
+      "assigned_function": "temperature (hot piles / upwelling)",
+      "second_function": "distinct compositional biographies (Pacific young SOC vs African older mix)",
+      "prior_overlap": [
+        "OAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 5,
+      "id": "ulvz-absence-map",
+      "realm": "earth",
+      "score": 11.41,
+      "eligible": true,
+      "status": "candidate",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "core-mantle boundary Sdiff postcursors",
+      "assigned_function": "scattered ULVZs as generic CMB heterogeneity",
+      "second_function": "structured ABSENCE: most of CMB lacks large ULVZs; six sit at LLVP edges / hotspots",
+      "prior_overlap": [
+        "Undersampling"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 6,
+      "id": "giant-magnetofossils",
+      "realm": "land",
+      "score": 8.6,
+      "eligible": true,
+      "status": "unproved",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "biogenic magnetite in sediments",
+      "assigned_function": "magnetotactic bacteria",
+      "second_function": "unknown complex organism that biomineralised giant magnetofossils (~56 Ma)",
+      "prior_overlap": [
+        "TAC",
+        "UCC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 7,
+      "id": "placebo-inert-channel",
+      "realm": "humans",
+      "score": 8.37,
+      "eligible": true,
+      "status": "candidate",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "the 'inert' treatment / sham / control pill",
+      "assigned_function": "null control (no active pharmacological function)",
+      "second_function": "meaning / expectation / care as a real physiological channel",
+      "prior_overlap": [
+        "NCR",
+        "TAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 8,
+      "id": "soil-microbial-memory",
+      "realm": "land",
+      "score": 6.33,
+      "eligible": true,
+      "status": "unproved",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "soil microbiome metabolic machinery",
+      "assigned_function": "nutrient cycling / agricultural substrate / C pool",
+      "second_function": "microbial memory and legacy as a function of soil (unsolved grand question)",
+      "prior_overlap": [
+        "Dark Biosphere Hypothesis",
+        "TAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 9,
+      "id": "seti-existence-binary",
+      "realm": "space",
+      "score": 4.48,
+      "eligible": true,
+      "status": "unproved",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "SETI non-detection / Fermi silence",
+      "assigned_function": "absence of technological civilizations (binary existence)",
+      "second_function": "civilizations have a duty cycle (collapse/recovery); silence is the off-phase",
+      "prior_overlap": [
+        "CIC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 10,
+      "id": "cryptochrome-eye-radical-pair",
+      "realm": "animals",
+      "score": 3.23,
+      "eligible": true,
+      "status": "candidate",
+      "role": "test",
+      "kill_reason": null,
+      "channel": "retinal cryptochrome / FAD radical-pair",
+      "assigned_function": "circadian photoreception",
+      "second_function": "light-dependent magnetic compass",
+      "prior_overlap": [
+        "TAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 11,
+      "id": "abiogenesis",
+      "realm": "life",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "origin-of-life experiments",
+      "assigned_function": "reproduce the historical pathway",
+      "second_function": "n/a \u2014 singleton / CIC / NCR",
+      "prior_overlap": [
+        "NCR",
+        "CIC",
+        "Failed-Adjudication"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 12,
+      "id": "cogitate-prefrontal-report-monopoly",
+      "realm": "humans",
+      "score": 0.0,
+      "eligible": false,
+      "status": "candidate",
+      "role": "test",
+      "kill_reason": "reclaim-of:Failed-Adjudication",
+      "channel": "prefrontal 'ignition' / P3b",
+      "assigned_function": "consciousness itself (GNWT)",
+      "second_function": "report / access, not phenomenal experience (no-report conditions drop P3b)",
+      "prior_overlap": [
+        "Failed-Adjudication",
+        "NCR"
+      ],
+      "reclaim_of": [
+        "Failed-Adjudication"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "consciousness-hard-problem",
+      "realm": "humans",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "subjective experience",
+      "assigned_function": "emergent from neural computation",
+      "second_function": "n/a \u2014 spoken hard problem",
+      "prior_overlap": [
+        "Failed-Adjudication",
+        "NCR",
+        "TAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 14,
+      "id": "dark-matter-particle",
+      "realm": "space",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "galactic/cluster gravity residual",
+      "assigned_function": "missing particle (WIMP/axion)",
+      "second_function": "modified / emergent gravity",
+      "prior_overlap": [
+        "TAC",
+        "PPC",
+        "CIP"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 15,
+      "id": "exaptation-speech-larynx",
+      "realm": "humans",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "larynx / hyoid",
+      "assigned_function": "airway / swallowing",
+      "second_function": "speech (classic Gould-Vrba exaptation)",
+      "prior_overlap": [],
+      "reclaim_of": []
+    },
+    {
+      "rank": 16,
+      "id": "gorg-dark-ferh-rhodopsin",
+      "realm": "ocean",
+      "score": 0.0,
+      "eligible": false,
+      "status": "candidate",
+      "role": "retain",
+      "kill_reason": "reclaim-of:CIP",
+      "channel": "Pelagibacterales rhodopsin",
+      "assigned_function": "sunlight phototrophy",
+      "second_function": "sensing deep-sea bioluminescence (FeRh clade)",
+      "prior_overlap": [
+        "CIP"
+      ],
+      "reclaim_of": [
+        "CIP"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "gravity-as-fundamental-monopoly",
+      "realm": "space",
+      "score": 0.0,
+      "eligible": false,
+      "status": "unproved",
+      "role": "test",
+      "kill_reason": "reclaim-of:CIP",
+      "channel": "spacetime curvature / gravitational phenomenology",
+      "assigned_function": "fundamental force (with EM, strong, weak)",
+      "second_function": "emergent thermodynamic / entropic / entanglement equation of state",
+      "prior_overlap": [
+        "CIP",
+        "PPC",
+        "TAC"
+      ],
+      "reclaim_of": [
+        "CIP"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "hubble-tension",
+      "realm": "space",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "H0 measurement",
+      "assigned_function": "one expansion rate",
+      "second_function": "two clocks",
+      "prior_overlap": [
+        "CIC",
+        "TAC",
+        "NCR"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 19,
+      "id": "lrd-class-vs-phase",
+      "realm": "space",
+      "score": 0.0,
+      "eligible": false,
+      "status": "unproved",
+      "role": "retain",
+      "kill_reason": "reclaim-of:CIC",
+      "channel": "JWST compact red point sources (little red dots)",
+      "assigned_function": "a new class of object (early galaxies / AGN class)",
+      "second_function": "a short-lived phase of black-hole assembly (black-hole-star / hidden host)",
+      "prior_overlap": [
+        "CIC"
+      ],
+      "reclaim_of": [
+        "CIC"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "magnetoreceptor-unlocated-generic",
+      "realm": "animals",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "unknown dedicated magnetoreceptor cell",
+      "assigned_function": "missing organ",
+      "second_function": "n/a \u2014 this IS the TAC formulation",
+      "prior_overlap": [
+        "TAC"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 21,
+      "id": "seafloor-unmapped",
+      "realm": "ocean",
+      "score": 0.0,
+      "eligible": false,
+      "status": "control",
+      "role": "control",
+      "kill_reason": "control",
+      "channel": "bathymetry",
+      "assigned_function": "n/a \u2014 this is WHERE we look",
+      "second_function": "n/a",
+      "prior_overlap": [
+        "Undersampling"
+      ],
+      "reclaim_of": []
+    },
+    {
+      "rank": 22,
+      "id": "sweetman-dark-oxygen",
+      "realm": "ocean",
+      "score": 0.0,
+      "eligible": false,
+      "status": "contested",
+      "role": "retain",
+      "kill_reason": "retain-prior-class",
+      "channel": "benthic-chamber O2 electrode",
+      "assigned_function": "seafloor oxygen consumption",
+      "second_function": "nodule electrolysis 'dark oxygen'",
+      "prior_overlap": [
+        "DCC",
+        "DIC",
+        "TAC"
+      ],
+      "reclaim_of": []
+    }
+  ],
+  "prior_classes_subtracted": [
+    "Dark Biosphere Hypothesis",
+    "Undersampling",
+    "Deep-biosphere-as-space-prior",
+    "TAC",
+    "NCR",
+    "Initiation-Maintenance Split",
+    "Failed-Adjudication",
+    "CIC",
+    "JAC",
+    "IOA",
+    "DIC",
+    "PPC",
+    "UCC",
+    "DCC",
+    "FCC",
+    "OAC",
+    "UPRC",
+    "CIP"
+  ]
+}
